@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Purakhnath Jyani</h1>
 
 <p align="center">
-🎯 <strong>Frontend Developer | BCA Graduate | Passionate about building interactive web applications</strong><br/>
-📍 Bikaner, Rajasthan | 📧 <a href="mailto:purakhnath45@gmail.com">purakhnath45@gmail.com</a>
+  <strong>Frontend Developer | BCA Graduate | Passionate about building interactive web applications</strong><br/>
+  Bikaner, Rajasthan | 📧 <a href="mailto:purakhnath45@gmail.com">purakhnath45@gmail.com</a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=000&style=flat-square" />
@@ -29,9 +29,9 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
-### 🚀 Frontend Development Intern — [Transcend M&A](https://transcendma.com/) (Remote)  
+### Frontend Development Intern — [Transcend M&A](https://transcendma.com/) (Remote)  
 *Sep 2024 – Dec 2024*  
 - Built reusable UI components using **shadcn/ui** & **Tailwind CSS**
 - Created complex forms with **React Hook Form** and **Zod**
@@ -39,47 +39,47 @@
 - Integrated APIs and collaborated with backend engineers
 - Participated in Agile workflows (daily standups via Google Chat)
 
-### 🌱 Web Development Intern — [Unified Mentor Pvt. Ltd.](https://www.unifiedmentor.com/)  
+### Web Development Intern — [Unified Mentor Pvt. Ltd.](https://www.unifiedmentor.com/)  
 *May 2024 – July 2024*  
 - Built an advanced calculator and image slider using vanilla JS
 - Designed a dynamic web resume using HTML/CSS/JS
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 💰 [Crypto Tracker Web App](https://crypto-tracker-three-alpha.vercel.app/)
-- 📈 Displays real-time cryptocurrency data via CoinMarketCap API
-- 📊 Visualized trends with React Recharts
-- 💡 Used Context API + Axios + Pagination with `localStorage`
+### [Crypto Tracker Web App](https://crypto-tracker-three-alpha.vercel.app/)
+- Displays real-time cryptocurrency data via CoinMarketCap API
+- Visualized trends with React Recharts
+- Used Context API + Axios + Pagination with `localStorage`
 
-### 📝 [CRUD App with Redux Toolkit](https://crud-app-react-tailwind-rtk.vercel.app/)
-- 🛠️ Full CRUD app built with RTK + Vite
-- ⚡ Super-fast builds and HMR via Vite
-- 🔄 Optimized global state using Redux Toolkit
+### [CRUD App with Redux Toolkit](https://crud-app-react-tailwind-rtk.vercel.app/)
+- Full CRUD app built with RTK + Vite
+- Super-fast builds and HMR via Vite
+- Optimized global state using Redux Toolkit
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor of Computer Applications (BCA)**  
-📍 Government Engineering College Bikaner  
-📅 Aug 2022 – June 2025  
-📊 CGPA: **8.02 / 76.22%**
+Government Engineering College Bikaner  
+Aug 2022 – June 2025  
+CGPA: **8.02 / 76.22%**
 
 ---
 
 ## 🏅 Certifications
 
-- 💼 Frontend Development Intern – *Transcend M&A*
-- 💻 Web Development Intern – *Unified Mentor Pvt. Ltd.*
-- 🌐 Responsive Web Design – *freeCodeCamp*
-- 🔑 JavaScript Essentials 1 – *Cisco*
-- 🧰 Web Dev Fundamentals – *IBM SkillsBuild*
+- Frontend Development Intern – *Transcend M&A*
+- Web Development Intern – *Unified Mentor Pvt. Ltd.*
+- Responsive Web Design – *freeCodeCamp*
+- JavaScript Essentials 1 – *Cisco*
+- Web Dev Fundamentals – *IBM SkillsBuild*
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=purakh-nath&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -88,12 +88,12 @@
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
-- 📧 **Email:** [purakhnath45@gmail.com](mailto:purakhnath45@gmail.com)  
-- 🌐 **Portfolio:** [purakhnath-jyani-portfolio.vercel.app](https://purakhnath-jyani-portfolio.vercel.app)  
-- 💼 **LinkedIn:** [linkedin.com/in/purakhnath-jyani](https://www.linkedin.com/in/purakhnath-jyani/)  
-- 💻 **GitHub:** [github.com/purakh-nath](https://github.com/purakh-nath)
+- **Email:** [purakhnath45@gmail.com](mailto:purakhnath45@gmail.com)  
+- **Portfolio:** [purakhnath-jyani-portfolio.vercel.app](https://purakhnath-jyani-portfolio.vercel.app)  
+- **LinkedIn:** [linkedin.com/in/purakhnath-jyani](https://www.linkedin.com/in/purakhnath-jyani/)  
+- **GitHub:** [github.com/purakh-nath](https://github.com/purakh-nath)
 
 ---
 
